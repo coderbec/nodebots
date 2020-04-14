@@ -1,0 +1,14 @@
+{
+  "name": "nodebotstute",
+  "version": "1.0.0",
+  "description": "day one of 100daysofcode I am learning iot hacking through the vehicle of nodebots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bec Martin",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.4.0"
+  }
+}
